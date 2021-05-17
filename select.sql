@@ -1,0 +1,1 @@
+INSERT INTO test.student(NAME,sex,Sno) VALUES("hemeng","F","311609000621")
